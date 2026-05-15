@@ -70,7 +70,7 @@
      sodipodi:nodetypes="sscsssscsssscsssscsss" />
   <path
      id="rect825"
-     style="fill:#526d78;fill-opacity:1;stroke:none;stroke-width:1.02972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:1.02972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      d="M 10.928571,7 C 10.335,7 10,7.4778571 10,8.0714286 V 10 H 8.0714286 C 7.4778571,10 7,10.335 7,10.928571 v 2.142858 C 7,13.665 7.4778571,14 8.0714286,14 H 10 v 1.928571 C 10,16.522143 10.335,17 10.928571,17 h 2.142858 C 13.665,17 14,16.522143 14,15.928571 V 14 h 1.928571 C 16.522143,14 17,13.665 17,13.071429 V 10.928571 C 17,10.335 16.520521,10.043848 15.928571,10 H 14 V 8.0714286 C 14,7.4778571 13.665,7 13.071429,7 Z"
      sodipodi:nodetypes="sscsssscsssscsssscsss" />
 </svg>

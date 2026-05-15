@@ -93,7 +93,7 @@
      id="path2571"
      transform="matrix(-1,0,0,1,23.999903,0)" />
   <path
-     style="color:#000000;fill:#526d78;stroke-linecap:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#e4e4e4;stroke-linecap:round;-inkscape-stroke:none"
      d="m 9,11.99962 a -1,1 0 0 0 1,1 h 7.625 a -1,1 0 0 0 1,-1 -1,1 0 0 0 -1,-1 H 10 a -1,1 0 0 0 -1,1 z"
      id="path829" />
   <path
@@ -111,6 +111,6 @@
      transform="matrix(-1,0,0,1,23.999903,0)" />
   <path
      id="path840"
-     style="fill:#526d78;fill-opacity:1;stroke-width:0.2025"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:0.2025"
      d="m 16.095483,15.072532 c 0.21165,0.404201 0.700875,0.547319 1.083675,0.317008 l 4.427025,-2.665793 c 0.52485,-0.315951 0.52515,-1.105533 5.25e-4,-1.421166 L 17.200009,8.6043489 c -0.527026,-0.312148 -1.20015,0.113711 -1.200001,0.745955 v 5.3292881 c 4.5e-4,0.137159 0.033,0.272715 0.09675,0.393095 z" />
 </svg>

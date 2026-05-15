@@ -12,7 +12,7 @@
  <path id="path829" style="fill:none;stroke:#795548;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 25,26 15.5,15.5"/>
  <circle id="circle833" style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.14285707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter859)" cx="15.5" cy="16" r="7.5"/>
  <circle id="circle838" style="opacity:0.75;fill:#010101;fill-opacity:1;stroke:none;stroke-width:2.42857146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" cx="15.5" cy="15.5" r="8.5"/>
- <circle id="path827" style="opacity:1;fill:#526d78;fill-opacity:1;stroke:none;stroke-width:2.14285707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" cx="15.5" cy="15.5" r="7.5"/>
+ <circle id="path827" style="opacity:1;fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:2.14285707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" cx="15.5" cy="15.5" r="7.5"/>
  <circle id="circle831" style="opacity:1;fill:#0947b5;fill-opacity:1;stroke:none;stroke-width:1.57142854;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" cx="15.5" cy="15.5" r="5.5"/>
  <path id="rect5428" style="fill:#ffffff;fill-opacity:1;stroke:none" d="m 15,12 v 3 h -3 v 1 h 3 v 3 h 1 v -3 h 3 v -1 h -3 v -3 z"/>
 </svg>

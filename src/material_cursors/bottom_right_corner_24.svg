@@ -89,7 +89,7 @@
      id="path3415"
      transform="matrix(-1,0,0,1,24,0)" />
   <path
-     style="color:#000000;fill:#526d78;stroke-linecap:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#e4e4e4;stroke-linecap:round;-inkscape-stroke:none"
      d="m 12.935547,11.34375 3.375,3.375 a -1.125,1.125 0 0 1 0,1.591797 -1.125,1.125 0 0 1 -1.591797,0 l -3.375,-3.375 a -1.125,1.125 0 0 1 0,-1.591797 -1.125,1.125 0 0 1 1.591797,0 z"
      id="path829" />
   <path
@@ -100,7 +100,7 @@
      transform="matrix(-1,0,0,1,24,0)" />
   <path
      id="rect825"
-     style="fill:#526d78;fill-opacity:1;stroke:none;stroke-width:1.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:1.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      d="M 21.633333,11 C 21.836467,11 22,11.163533 22,11.366667 V 20.9 21.633333 C 22,21.836467 21.836467,22 21.633333,22 H 20.9 11.366667 C 11.163533,22 11,21.836467 11,21.633333 v -1.267 c 0,-0.203134 0.164449,-0.385925 0.366667,-0.366667 h 8.633 V 11.366667 C 19.999667,11.163533 20.1632,11 20.366333,11 Z"
      sodipodi:nodetypes="sscsscsssccsss" />
   <path
@@ -124,6 +124,6 @@
      transform="matrix(-1,0,0,1,24,0)" />
   <path
      id="path840"
-     style="fill:#526d78;fill-opacity:1;stroke-width:0.182155"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:0.182155"
      d="m 15.787472,12.02683 c 0.387752,-0.10905 0.797809,0.1251 0.908258,0.518625 l 1.276199,4.552725 c 0.151364,0.5397 -0.333636,1.025175 -0.873006,0.87375 l -4.559299,-1.2429 c -0.53876,-0.1551 -0.720186,-0.85995 -0.331596,-1.24845 l 3.27423,-3.276 c 0.08458,-0.084 0.189543,-0.14565 0.305254,-0.1779 z" />
 </svg>

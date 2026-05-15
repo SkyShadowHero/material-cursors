@@ -88,7 +88,7 @@
      d="m 11.064453,11.84375 -3.3749999,3.375 a 1.125,1.125 0 0 0 0,1.591797 1.125,1.125 0 0 0 1.5917969,0 l 3.375,-3.375 a 1.125,1.125 0 0 0 0,-1.591797 1.125,1.125 0 0 0 -1.591797,0 z"
      id="path3415" />
   <path
-     style="color:#000000;fill:#526d78;stroke-linecap:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#e4e4e4;stroke-linecap:round;-inkscape-stroke:none"
      d="m 11.064453,11.34375 -3.3749999,3.375 a 1.125,1.125 0 0 0 0,1.591797 1.125,1.125 0 0 0 1.5917969,0 l 3.375,-3.375 a 1.125,1.125 0 0 0 0,-1.591797 1.125,1.125 0 0 0 -1.591797,0 z"
      id="path829" />
   <path
@@ -98,7 +98,7 @@
      sodipodi:nodetypes="sscsscsssccsss" />
   <path
      id="rect825"
-     style="fill:#526d78;fill-opacity:1;stroke:none;stroke-width:1.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:1.46667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      d="M 2.3666667,11 C 2.1635333,11 2,11.163533 2,11.366667 V 20.9 21.633333 C 2,21.836467 2.1635333,22 2.3666667,22 H 3.1 12.633333 C 12.836467,22 13,21.836467 13,21.633333 v -1.267 c 0,-0.203134 -0.164449,-0.385925 -0.366667,-0.366667 H 4.0003334 V 11.366667 C 4.0003334,11.163533 3.8368,11 3.6336667,11 Z"
      sodipodi:nodetypes="sscsscsssccsss" />
   <path
@@ -121,6 +121,6 @@
      d="M 8.2125278,12.52683 C 7.8247763,12.41778 7.4147193,12.65193 7.3042697,13.045455 L 6.0280713,17.59818 c -0.1513645,0.5397 0.3336359,1.025175 0.8730057,0.87375 l 4.559299,-1.2429 c 0.53876,-0.1551 0.720186,-0.85995 0.331596,-1.24845 l -3.2742302,-3.276 c -0.084582,-0.084 -0.189543,-0.14565 -0.3052537,-0.1779 z" />
   <path
      id="path840"
-     style="fill:#526d78;fill-opacity:1;stroke-width:0.182155"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:0.182155"
      d="M 8.2125278,12.02683 C 7.8247763,11.91778 7.4147193,12.15193 7.3042697,12.545455 L 6.0280713,17.09818 c -0.1513645,0.5397 0.3336359,1.025175 0.8730057,0.87375 l 4.559299,-1.2429 c 0.53876,-0.1551 0.720186,-0.85995 0.331596,-1.24845 l -3.2742302,-3.276 c -0.084582,-0.084 -0.189543,-0.14565 -0.3052537,-0.1779 z" />
 </svg>

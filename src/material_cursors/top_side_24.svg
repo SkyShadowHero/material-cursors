@@ -23,7 +23,7 @@
      d="m 12,15.5 a 1,1 0 0 1 -1,-1 V 11 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 v 3.5 a 1,1 0 0 1 -1,1 z"
      id="path1010" />
   <path
-     style="color:#000000;fill:#526d78;stroke-linecap:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#e4e4e4;stroke-linecap:round;-inkscape-stroke:none"
      d="m 12,15 a 1,1 0 0 1 -1,-1 v -3.5 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 V 14 a 1,1 0 0 1 -1,1 z"
      id="path829" />
   <path
@@ -32,7 +32,7 @@
      d="M 6.3529412,4.498727 C 6.1582927,4.516061 6,4.349923 6,4.165384 V 2.833343 C 6,2.648805 6.1574118,2.5 6.3529412,2.5 h 5.9999998 5.294118 C 17.842588,2.5 18,2.648805 18,2.833343 v 1.332041 c 0,0.184539 -0.158293,0.350877 -0.352941,0.333343 h -5.294118 z" />
   <path
      id="rect825"
-     style="fill:#526d78;fill-opacity:1;stroke:none;stroke-width:1.37157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:1.37157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      d="M 6.3529412,3.998727 C 6.1582927,4.016061 6,3.849923 6,3.665384 V 2.333343 C 6,2.148805 6.1574118,2 6.3529412,2 h 5.9999998 5.294118 C 17.842588,2 18,2.148805 18,2.333343 v 1.332041 c 0,0.184539 -0.158293,0.350877 -0.352941,0.333343 h -5.294118 z" />
   <path
      id="path830"
@@ -52,7 +52,7 @@
      id="path1136" />
   <path
      id="path840"
-     style="fill:#526d78;fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 8.9270876,11.904761 C 8.5228874,11.693111 8.3797692,11.203886 8.6100801,10.821086 L 11.275873,6.394061 c 0.315951,-0.52485 1.105533,-0.52515 1.421166,-5.25e-4 l 2.698232,4.4067 c 0.312148,0.527025 -0.113711,1.20015 -0.745955,1.199999 H 9.3200279 c -0.1371587,-4.49e-4 -0.2727145,-0.033 -0.3930951,-0.09675 z" />
   <sodipodi:namedview
      id="namedview21"

@@ -71,7 +71,7 @@
      transform="matrix(-1,0,0,1,24.999992,0)" />
   <path
      id="rect837"
-     style="fill:#526d78;fill-opacity:1;stroke:none;stroke-width:1.14095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="fill:#e4e4e4;fill-opacity:1;stroke:none;stroke-width:1.14095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      d="M 3.999992,11.113637 C 3.999992,10.4715 4.516947,10 5.159083,10 H 17.999992 V 4.1590909 C 17.999992,3.5169546 18.471492,3 19.113629,3 h 0.772726 c 0.642137,0 1.10864,0.516974 1.113637,1.1590909 V 18.840909 C 20.999992,19.483046 20.528492,20 19.886355,20 h -0.772726 c -0.642137,0 -1.113637,-0.516954 -1.113637,-1.159091 V 13 H 5.159083 C 4.516947,13 3.999992,12.5285 3.999992,11.886363 Z"
      sodipodi:nodetypes="sscsssccssscsss" />
 </svg>

@@ -6,7 +6,16 @@
 
 set -e
 
-INKSCAPE_VERSION=$(inkscape --version 2>/dev/null | awk '/Inkscape[ ]/ {print $2; exit}')
+# Prefer rsvg-convert (no display needed, faster), fall back to inkscape
+if command -v rsvg-convert &>/dev/null; then
+	RENDER_CMD="rsvg-convert"
+elif command -v inkscape &>/dev/null; then
+	RENDER_CMD="inkscape"
+	INKSCAPE_VERSION=$(inkscape --version 2>/dev/null | awk '/Inkscape[ ]/ {print $2; exit}')
+else
+	echo "ERROR: Neither rsvg-convert nor inkscape found. Install librsvg or inkscape."
+	exit 1
+fi
 
 convert_to_png() {
 	local src_dir="$1"
@@ -19,7 +28,7 @@ convert_to_png() {
 	# shellcheck disable=SC2016
 	for file in "$src_dir"/*.svg; do
 		[ -f "$file" ] || continue
-		for size in 24 32 48 64; do
+		for size in 24 32 48 64 72 96 128 192 256; do
 			bitmap_file="${out_dir%/}/$(basename "$file" .svg)_${size}.png"
 
 			svg_mtime="$(stat -c '%Y' "$file")"
@@ -31,7 +40,10 @@ convert_to_png() {
 				continue
 			fi
 
-			if [ "${INKSCAPE_VERSION%%.*}" -eq 0 ]; then
+			if [ "$RENDER_CMD" = "rsvg-convert" ]; then
+				printf 'rsvg-convert -f png -w %s -h %s -o "%s" "%s"\0' \
+					"$size" "$size" "$bitmap_file" "$file"
+			elif [ "${INKSCAPE_VERSION%%.*}" -eq 0 ]; then
 				printf 'inkscape -z -e "%s" -w %s -h %s "%s"\0' \
 					"$bitmap_file" "$size" "$size" "$file"
 			else

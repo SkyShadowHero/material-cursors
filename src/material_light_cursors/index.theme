@@ -1,3 +1,8 @@
 [Icon Theme]
 Name=Material Light Cursors
 Comment=Material by varlesh
+
+[cursors_scalable]
+Size=24
+Type=Scalable
+MaxSize=256
